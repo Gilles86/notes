@@ -1,3 +1,3 @@
 #Test
 
-$a \sim b + \alpha$
+'$a \sim b + \alpha$'
