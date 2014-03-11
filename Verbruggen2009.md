@@ -41,3 +41,17 @@ No significant difference in a, higher v for dual-task condition (unexpected!), 
 Same as experiment 1, but the lenght of the blocks is manipulated (1, 2 and 4).
 
 ####Results
+Similar effects as experiment 1.
+
+###Experiment 4
+Selective stopping, three conditions: 1) always stop, 2) only stop when low tone, 3) only stop when high tone.
+
+
+####Results
+Higher tresholds in stopping conditions, longer t0 in stopping conditions, no difference in drift. There were no significant differences between condition 2 and 3 versus condition 1 in the go-process. SSRTs were higher for 2 and 3 versus 1 (this was a replication of Riegler (1986)).
+
+###Experiment 5
+Proportion of stop signals is manipulated (0%, 30% and 70%).
+
+####Results
+
