@@ -54,4 +54,39 @@ Higher tresholds in stopping conditions, longer t0 in stopping conditions, no di
 Proportion of stop signals is manipulated (0%, 30% and 70%).
 
 ####Results
+Greater boundary separation with more stop strials. Non-significant increase of t0. Decrease of drift rate in with higher prob. of stop-trials. 70% trials are not really analyzed because too little trials.
 
+##General Discussion
+The experiment found support for both hypoteses (response caution adjustment versus dual-task effect). The dual-task effects seem bigger in a setting where a secodn action is required (experiment 2) versus a stop-requirement (experiment 3). This dual-task effect can mostly be explained by the t0-parameter. The effects on drift rate were paradoxical.
+
+### proactive response strategy adjustment
+The authors make a connection to the SAT: dual-task requierements would be similar.
+
+The authors claim subjects can make trial-to-trial adjustments in their response strategies, even without explicit instruction to do so.
+
+### Dutal-task costs
+
+Multiple studies have shown that SSRT is barely influenced by go-processing. Go-task can still be influenced by presence of stop-task. RTs are still increased in these studies!
+
+### Delayed-responding hypothesis
+The authors note that the difference in non-decision time were smaller in the dual-task setting (experiment 2) versus the other settings. They consider alternative explanations.
+The _delayed responding hypothesis_ assumes subjects postpone processing of the go stimulus, the execution of the go response, or both, until they know they can safely execute the response. 
+The authors deem this hypothesis implausible because:
+1. SSD changes after every trial, making it difficult to estimate
+2. Subjects need to estimate SSRT, also hard.
+3. Time estimation is an effortful process, would make it even more difficult.
+
+### Response supression hypothesis
+The _respons-supression hypothesis_ assumes that the opposing task goals supress motor output and this effect is particularly stong in the stop-signal paradigm. Frank (2006) is mentioned: STN activation could achieve such suppression. This suppression would occur as t0 in the fits. It does not exclude that subjects would _also_ modulate thresholds. Rinkenauer et al. (2004) showed that SAT also influences non-decisional processes.
+
+The authors mention that the found drift-rate effects are problematic and "To our knowledge, strategic effects on growth rate have not been studies systematically so further research is needed".
+
+##Practical Guidelines
+The authors mention that subjects slow down their responses during stop-tasks, even when they are instructed not to do so. Therefore "it is advisable to keep the proportion of stop signals as low as possible". 
+
+## Conclusions
+ * Subjects can adjust response strategies proactively
+ * Longer RT _and_ higher accuracy when pre-cues indicate stop-trials
+   * Probably response-strategy adjustments
+   * "Dual task requirements played a smaller role"
+ * Model f its show that these response strategies involve increase the response threshold, and "possibly", supressing the motor output.
